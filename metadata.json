@@ -1,0 +1,5 @@
+{
+  "name": "Sunday Overtime Calculator",
+  "description": "Calculate pay hours for Sunday work using the 1.555x multiplier.",
+  "requestFramePermissions": []
+}
